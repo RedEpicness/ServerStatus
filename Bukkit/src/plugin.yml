@@ -1,0 +1,5 @@
+name: ServerStatus
+author: Red_Epicness
+version: 0.1
+main: me.redepicness.serverstatus.bukkit.main
+depend: [SocketMessenger]
